@@ -12,7 +12,7 @@
 
 - Programming Languages: Python, JavaScript, C++
 - Machine Learning Frameworks: TensorFlow, PyTorch
-- Other Frameworks: OpenCV, NumPy
+- Other Frameworks: OpenCV, NumPy, Matplotlib
 - Music Production Tools: Ableton Live, Logic Pro
 
 🌟 Goals:
