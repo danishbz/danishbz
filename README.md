@@ -11,8 +11,8 @@
 🔧 Technical Skills:
 
 - Programming Languages: Python, JavaScript, C++
-- Machine Learning Frameworks: TensorFlow, PyTorch
-- Other Frameworks: OpenCV, NumPy, Matplotlib
+- Machine Learning Frameworks: TensorFlow, PyTorch, DeepSpeech
+- Other Frameworks: OpenCV, NumPy, Matplotlib, SciPy, Librosa
 - Music Production Tools: Ableton Live, Logic Pro
 
 🌟 Goals:
