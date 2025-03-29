@@ -12,7 +12,7 @@
 
 - Programming Languages: Python, JavaScript, C++
 - Machine Learning Frameworks: TensorFlow, PyTorch, DeepSpeech
-- Other Frameworks: OpenCV, NumPy, Matplotlib, SciPy, Librosa, Pyo, Node.js, Express.js, EJS
+- Other Frameworks: OpenCV, NumPy, Matplotlib, SciPy, Librosa, Pyo, Node.js, Express.js, EJS, p5.js
 - Databases: MySQL
 - Music Production Tools: Ableton Live, Logic Pro
 
