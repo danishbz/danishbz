@@ -6,18 +6,18 @@
 
 💻 Current Projects:
 
-- Music AI Generator: A program that leverages machine learning techniques to create innovative musical compositions.
+- **Music AI Generator**: A program that leverages machine learning techniques to create innovative musical compositions.
 
 🔧 Technical Skills in Technologies and Frameworks:
 
-- Programming Languages: Python, JavaScript, C++, C#
-- Machine Learning and Data Science: TensorFlow / Keras, PyTorch, DeepSpeech, Scikit-learn, Pandas, NumPy, SciPy
-- Web and Front-end Development: Node.js, Express.js, EJS, p5.js
-- Audio Processing: Librosa, Pyo, Meyda
-- Computer Vision: OpenCV
-- Game Development: Unity
-- Databases: MySQL
-- Music Production: Ableton Live, Logic Pro
+- **Programming Languages**: Python, JavaScript, C++, C#
+- **Machine Learning and Data Science**: TensorFlow / Keras, PyTorch, DeepSpeech, Scikit-learn, Pandas, NumPy, SciPy
+- **Web and Front-end Development**: Node.js, Express.js, EJS, p5.js
+- **Audio Processing**: Librosa, Pyo, Meyda
+- **Computer Vision**: OpenCV
+- **Game Development**: Unity
+- **Databases**: MySQL
+- **Music Production**: Ableton Live, Logic Pro
 
 🌟 Goals:
 
