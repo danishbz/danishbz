@@ -11,7 +11,7 @@
 🔧 Technical Skills in Technologies and Frameworks:
 
 - **Programming Languages**: Python, JavaScript, C++, C#
-- **Machine Learning and Data Science**: TensorFlow / Keras, PyTorch, DeepSpeech, Scikit-learn, Pandas, NumPy, SciPy
+- **Machine Learning and Data Science**: TensorFlow / Keras, PyTorch, DeepSpeech, Scikit-learn, Pandas, NumPy, SciPy, Seaborn
 - **Web and Front-end Development**: Node.js, Express.js, EJS, p5.js
 - **Audio Processing**: Librosa, Pyo, Meyda
 - **Computer Vision**: OpenCV
